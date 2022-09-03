@@ -1,6 +1,6 @@
 - 🙋🏽‍♀️ Hi there
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m skilled Excel, SQL, Power BI and python 
+- 🌱 I’m skilled in Excel, SQL, Power BI and python 
 - 💞️ I’m looking to collaborate on data projects 
 - 📫 How to reach me utosutonia@gmail.com
 
