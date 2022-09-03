@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ifechi22
+- 👋 Hi there.
 - 👀 I’m interested in Data Analysis and Business Intelligence analysis 
 - 🌱 I’m currently learning SQL, Power BI and python 
 - 💞️ I’m looking to collaborate on Big data analysis 
