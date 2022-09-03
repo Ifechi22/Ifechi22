@@ -1,8 +1,8 @@
-- 👋 Hi there.
-- 👀 I’m interested in Data Analysis and Business Intelligence analysis 
-- 🌱 I’m currently learning SQL, Power BI and python 
-- 💞️ I’m looking to collaborate on Big data analysis 
-- 📫 How to reach me 
+- 🙋🏽‍♀️ Hi there
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m skilled Excel, SQL, Power BI and python 
+- 💞️ I’m looking to collaborate on data projects 
+- 📫 How to reach me utosutonia@gmail.com
 
 <!---
 Ifechi22/Ifechi22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
