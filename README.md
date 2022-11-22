@@ -1,6 +1,6 @@
 - 🙋🏽‍♀️ Hi there
 - 👩‍💻 Engineering background with 2years of professional experience in supply chain
-- 📊 Transition to Data Analytics in May 2022
+- 📊 Transition to Data Analytics in March 2022
 - 🌱 I’m skilled in Excel, SQL, Power BI and python 
 - 💞️ I’m looking to collaborate on data projects 
 - 📫 How to reach me utosutonia@gmail.com
