@@ -1,5 +1,5 @@
 - 🙋🏽‍♀️ Hi there
-- 👩‍💻 Engineering background with 2years of professional experience in supply chain
+- 👩‍💻 Engineering background with 3years of professional experience in supply chain
 - 📊 Transition to Data Analytics in March 2022
 - 🌱 I’m skilled in Excel, SQL, Power BI and python 
 - 💞️ I’m looking to collaborate on data projects 
