@@ -1,5 +1,5 @@
 - 🙋🏽‍♀️ Hi there
-- 👩‍💻 Engineering background with 3years of professional experience in supply chain
+- 👩‍💻 Engineering background with 2years of professional experience in Product Management 
 - 🌱 I’m skilled in Problem Solving,Excel and SQL 
 - 💞️ I’m looking to collaborate on product management projects 
 - 📫 How to reach me utosutonia@gmail.com
